@@ -37,16 +37,6 @@
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href = "https://www.facebook.com/osateenemo/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/_ostnm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/jumpogpo/">
-    <img src="https://komarev.com/ghpvc/?username=jumpogpo">
-</a>
-<a href="https://github.com/jumpogpo/"><img src="https://img.shields.io/github/followers/jumpogpo?label=Followers&style=social" alt="GitHub Badge"></a>
