@@ -8,7 +8,7 @@
 [![Mail Badge](https://img.shields.io/badge/-osateenemo@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:osateenemo@gmail.com)
 
 <!-- TODO: Make technologies links takes you to repositories -->
-### ⚡My Experience
+### ⚡ My Experience
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -19,9 +19,9 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-    <img src="https://img.icons8.com/wired/64/000000/clip-studio-paint.png"/>
+    <img src="https://img.icons8.com/nolan/64/clip-studio-paint.png"/>
 
-### 📊Github Stats
+### 📊 Github Stats
 
 <p align="center">
     <a href="https://github.com/jumpogpo/">
@@ -33,6 +33,16 @@
     <a href="https://github.com/jumpogpo/">
         <img alt="Thanapat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumpogpo&bg_color=0000&color=b5b5b5&line=ffffff&point=78fe96&hide_border=true&theme=dark"/>
     </a>
+</p>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
 </p>
 
 ## ❤ Views and Followers
