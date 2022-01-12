@@ -21,20 +21,6 @@
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
     <img src="https://img.icons8.com/nolan/64/clip-studio-paint.png"/>
 
-### 📊 Github Stats
-
-<p align="center">
-    <a href="https://github.com/jumpogpo/">
-        <img alt="Thanapat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jumpogpo&show_icons=true&theme=dark"/>
-    </a>
-    <a href="https://github.com/jumpogpo/">
-        <img alt="Thanapat's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpogpo&langs_count=10&theme=dark"/>
-    </a>
-    <a href="https://github.com/jumpogpo/">
-        <img alt="Thanapat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumpogpo&bg_color=0000&color=b5b5b5&line=ffffff&point=78fe96&hide_border=true&theme=dark"/>
-    </a>
-</p>
-
 ## Connect with me:
 <p align="left">
 <a href = "https://www.facebook.com/osateenemo/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
