@@ -1,9 +1,19 @@
 ## I’m Osatee Sukputanond <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 👀 I’m interested in Workshop and Coding.
-- 🚀 I'm learning to code skills.
-- 🏫 My School: Sarasas Witaed Rangsit
+- 🚀 Goals
+        C
+        HTML
+        CSS
+        JS
+        Python
+        Java
+        Golang
+        DB
+- 🏫 School: Sarasas Witaed Rangsit
+- 🏫 University : Silpakorn University
 - 📫 Contact: osateenemo@gmail.com
+  
 
 [![Mail Badge](https://img.shields.io/badge/-osateenemo@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:osateenemo@gmail.com)
 
