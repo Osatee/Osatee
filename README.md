@@ -15,7 +15,7 @@
 - 📫 Contact: sukputanond.osatee@gmail.com
   
 
-[![Mail Badge](https://img.shields.io/badge/-osateenemo@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sukputanond.osatee@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-sukputanond.osatee@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sukputanond.osatee@gmail.com)
 
 <!-- TODO: Make technologies links takes you to repositories -->
 ### ⚡ My Experience
