@@ -26,8 +26,6 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
     <img src="https://img.icons8.com/nolan/64/clip-studio-paint.png"/>
 
