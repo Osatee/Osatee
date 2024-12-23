@@ -30,7 +30,7 @@
     <img src="https://img.icons8.com/?size=48&id=44442&format=png&color=000000"/>
 
 
-### ![image](https://github.com/user-attachments/assets/55bc9140-90a2-43d1-a8a7-b4fc9c7d2938) Connect with me:
+### 📞 Connect with me:
 <p align="left">
 <a href = "https://www.facebook.com/osateenemo/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/_ostnm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
