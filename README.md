@@ -28,7 +28,7 @@
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
     <img src="https://img.icons8.com/nolan/64/clip-studio-paint.png"/>
-    <img srt="https://img.icons8.com/?size=100&id=2572&format=png&color=000000>
+    <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000>
 
 
 ## Connect with me:
