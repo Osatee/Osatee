@@ -28,6 +28,9 @@
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000"/>
     <img src="https://img.icons8.com/?size=48&id=44442&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=48&id=38561&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=48&id=39913&format=png&color=000000"/>
 
 
 ### 📞 Connect with me:
