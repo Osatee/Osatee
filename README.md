@@ -28,10 +28,9 @@
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
     <img src="https://img.icons8.com/nolan/64/clip-studio-paint.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java.png>
 
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 <a href = "https://www.facebook.com/osateenemo/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/_ostnm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
